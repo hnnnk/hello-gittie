@@ -1,3 +1,3 @@
 # Hello Gittie
 
-My first repo. Hurray!
+My first repo. Hip-hip-hurray!
